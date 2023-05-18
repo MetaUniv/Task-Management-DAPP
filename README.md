@@ -1,3 +1,8 @@
+# Problem: The problem we encounter in task management within blockchain decentralization is the lack of a reliable and transparent system for tracking and managing tasks. In traditional centralized task management systems, there is a centralized authority responsible for maintaining and updating task statuses. However, in a decentralized blockchain environment, there is no central authority to manage and verify task statuses, leading to potential issues such as inconsistency, lack of trust, and difficulty in ensuring accurate task tracking.
+
+# Solution: Our task management DApp addresses these challenges by leveraging the transparency and immutability of blockchain technology. Each task and its associated status updates are recorded as transactions on the blockchain, ensuring a tamper-proof and transparent history of task changes. The DApp utilizes smart contracts to enforce predefined rules for task management, ensuring that only authorized participants can modify task statuses. This decentralized approach eliminates the need for a central authority and enhances trust among participants. With our DApp, users can seamlessly track and manage tasks across different stages, such as "todo," "busy," and "done," benefiting from the decentralized nature of blockchain technology.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
